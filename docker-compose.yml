@@ -1,1 +1,3 @@
 versio "3.8"
+service:
+  Name: Jenkins
